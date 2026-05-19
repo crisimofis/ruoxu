@@ -7,7 +7,6 @@ const navItems = [
   { name: '插画作品', href: '/', hash: '#illustration' },
   { name: 'UI/UX作品', href: '/', hash: '#uiux' },
   { name: '近期作品', href: '/', hash: '#recent' },
-  { name: '联系合作', href: '/', hash: '#contact' },
 ];
 
 export default function Navbar() {
