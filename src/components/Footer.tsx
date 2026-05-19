@@ -13,10 +13,9 @@ export default function Footer() {
         <div className="flex gap-8 text-[10px] font-bold tracking-widest uppercase text-text-muted">
           <a href="https://xhslink.com/m/8MdPi66kN4j" target="_blank" rel="noopener noreferrer" className="hover:text-text-main transition-colors">Xiaohongshu</a>
           <a href="https://weibo.com/u/6609239575" target="_blank" rel="noopener noreferrer" className="hover:text-text-main transition-colors">Weibo</a>
-          <a href="mailto:contact@ruoxu.design" className="hover:text-text-main transition-colors">Email</a>
+          <a href="https://www.douyin.com/user/MS4wLjABAAAAfzIi_OEG39A23slCXo6jN86xC9VBTv74DKhK1xASvPJwQuphGCWfEqoc9YBoDJl5?from_tab_name=main" target="_blank" rel="noopener noreferrer" className="hover:text-text-main transition-colors">Douyin</a>
         </div>
       </div>
     </footer>
   );
 }
-
