@@ -25,11 +25,9 @@ export default function Hero() {
           </p>
 
           <div className="flex items-center gap-6 pt-4 text-sm font-medium tracking-wider uppercase text-text-muted">
-            <a href="#" className="hover:text-text-main transition-colors">Dribbble</a>
+            <a href="https://xhslink.com/m/8MdPi66kN4j" target="_blank" rel="noopener noreferrer" className="hover:text-text-main transition-colors">Xiaohongshu</a>
             <span>·</span>
-            <a href="#" className="hover:text-text-main transition-colors">Xiaohongshu</a>
-            <span>·</span>
-            <a href="#" className="hover:text-text-main transition-colors">Weibo</a>
+            <a href="https://weibo.com/u/6609239575" target="_blank" rel="noopener noreferrer" className="hover:text-text-main transition-colors">Weibo</a>
           </div>
         </motion.div>
 
