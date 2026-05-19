@@ -4,7 +4,6 @@ import Hero from '../components/Hero';
 import IllustrationSection from '../components/IllustrationSection';
 import UIUXSection from '../components/UIUXSection';
 import RecentWorks from '../components/RecentWorks';
-import Contact from '../components/Contact';
 
 export default function Home() {
   const location = useLocation();
@@ -27,7 +26,6 @@ export default function Home() {
       <IllustrationSection />
       <UIUXSection />
       <RecentWorks />
-      <Contact />
     </>
   );
 }
