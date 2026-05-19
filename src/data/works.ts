@@ -38,12 +38,12 @@ export const allWorks: Work[] = [
   {
     id: 'cheng-shi-zhe-die',
     category: 'illustration',
-    title: '城市折叠',
+    title: '花叶之拥',
     subtitle: 'Illustration Works',
     year: '2024',
     tag: '商业插画',
     thumbnail: 'images/illustration-2.jpg',
-    description: '现代都市生活的抽象转译，几何美学的极致应用。',
+    description: '花与人的和谐共处。',
     details: {
       role: '商业插画师',
       client: '某知名科技杂志',
