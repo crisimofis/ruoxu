@@ -46,9 +46,9 @@ export const allWorks: Work[] = [
     description: '花与人的和谐共处。',
     details: {
       role: '商业插画师',
-      client: '某知名科技杂志',
-      tools: ['Adobe Illustrator'],
-      content: '城市不仅仅是建筑的堆砌，更是光影和空间的复杂交织。在这一系列中，我使用了高度简练的几何图形来重组城市景观，通过低饱和度的配色营造出一种宁静而深邃的都市氛围。',
+      client: '某服装品牌',
+      tools: ['Adobe Photoshop'],
+      content: '花与少女的和谐相处，从自然而来的人，也必要拥抱自然。',
       gallery: [
          'images/illustration-2.jpg'
       ]
