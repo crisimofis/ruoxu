@@ -1,0 +1,8 @@
+{
+  "name": "RUOXU Portfolio",
+  "description": "Graphic Designer & Illustrator personal portfolio featuring illustration, UI/UX, and recent art works with a Zen-modernist aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

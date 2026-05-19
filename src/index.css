@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Space+Grotesk:wght@600&family=Noto+Serif+SC:wght@400&family=Noto+Sans+SC:wght@700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Space Grotesk", sans-serif;
+  --font-serif: "Noto Serif SC", serif;
+  --font-heading: "Noto Sans SC", sans-serif;
+
+  --color-accent-mint: #9bf3df;
+  --color-accent-purple: #debbe4;
+  --color-bg-base: #fcf8fb;
+  --color-text-main: #1b1b1d;
+  --color-text-muted: #5d5e60;
+}
+
+@layer base {
+  html {
+    @apply scroll-smooth;
+  }
+  body {
+    @apply bg-bg-base text-text-main font-sans;
+  }
+}
+
+.glass-nav {
+  @apply bg-white/70 backdrop-blur-xl border-b border-gray-100;
+}
+
+.hover-lift {
+  @apply transition-all duration-300 ease-out hover:-translate-y-1 hover:shadow-lg;
+}
