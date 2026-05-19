@@ -11,12 +11,12 @@ export default function Footer() {
         </div>
 
         <div className="flex gap-8 text-[10px] font-bold tracking-widest uppercase text-text-muted">
-          <a href="#" className="hover:text-text-main transition-colors">Dribbble</a>
-          <a href="#" className="hover:text-text-main transition-colors">Xiaohongshu</a>
-          <a href="#" className="hover:text-text-main transition-colors">Weibo</a>
+          <a href="https://xhslink.com/m/8MdPi66kN4j" target="_blank" rel="noopener noreferrer" className="hover:text-text-main transition-colors">Xiaohongshu</a>
+          <a href="https://weibo.com/u/6609239575" target="_blank" rel="noopener noreferrer" className="hover:text-text-main transition-colors">Weibo</a>
           <a href="mailto:contact@ruoxu.design" className="hover:text-text-main transition-colors">Email</a>
         </div>
       </div>
     </footer>
   );
 }
+
