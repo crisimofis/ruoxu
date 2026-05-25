@@ -13,7 +13,7 @@ export default function Hero() {
         >
           <div className="space-y-4">
             <h1 className="font-display text-5xl md:text-7xl font-semibold tracking-tighter leading-[1.1]">
-              RUOXU
+              RUOXUtty
             </h1>
             <h2 className="font-heading text-2xl md:text-3xl text-text-muted">
               平面设计师 × 插画师
